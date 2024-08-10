@@ -21,6 +21,12 @@ Download the APK to try out the app on your Android device:
 Watch a demo video to see the app in action:
 [Watch Demo Video](https://example.com/videos/sleep_app_ui_demo.mp4)
 
+### Contact
+
+For any questions or feedback, please contact:
+
+- **Name:** Hasan Hammoudah
+- **Email:** [HasanHammoudah@gmail.com](mailto:HasanHammoudah@gmail.com)
 
 ## Getting Started
 
@@ -61,10 +67,5 @@ void main() {
   // Your code here
 }
 
-### Contact
 
-For any questions or feedback, please contact:
-
-- **Name:** Hasan Hammoudah
-- **Email:** [HasanHammoudah@gmail.com](mailto:HasanHammoudah@gmail.com)
 
