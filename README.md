@@ -5,6 +5,23 @@
 
 This project is a [brief description of your project]. It is designed to [purpose of the project]. Key features include [list main features]. What sets this project apart is [unique aspect or advantage].
 
+## Screenshots
+
+![Home Screen](assets/screenshots/home_screen.png)
+![Recommended Section](assets/screenshots/recommended_section.png)
+![Recent Section](assets/screenshots/recent_section.png)
+
+## APK
+
+Download the APK to try out the app on your Android device:
+[Download APK](https://example.com/downloads/sleep_app_ui.apk)
+
+## Demo Video
+
+Watch a demo video to see the app in action:
+[Watch Demo Video](https://example.com/videos/sleep_app_ui_demo.mp4)
+
+
 ## Getting Started
 
 ### Installation
