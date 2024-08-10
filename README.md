@@ -4,6 +4,13 @@
 
 education_app is a versatile and dynamic platform designed for course management and student engagement. This app allows administrators to add and manage various courses, including video tutorials and exams. Students can register, log in, and track their progress through their favorite courses, such as Flutter, ASP.NET, Python, or HTML. The app also facilitates real-time communication, enabling students to chat with course organizers and foster connections.
 
+Key features include:
+
+Course Management: Admins can seamlessly add and manage courses, videos, and exams.
+Student Interaction: Students can follow their preferred courses and stay engaged with interactive content.
+Chat Functionality: Provides a chat feature for students to connect with course organizers and build relationships.
+Elegant Design: The app boasts a sleek, modern interface and fast performance, ensuring a smooth user experience.
+
 ## Screenshots
 
 ![Home Screen](assets/screenshots/home_screen.png)
