@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a [brief description of your project]. It is designed to [purpose of the project]. Key features include [list main features]. What sets this project apart is [unique aspect or advantage].
+education_app is a versatile and dynamic platform designed for course management and student engagement. This app allows administrators to add and manage various courses, including video tutorials and exams. Students can register, log in, and track their progress through their favorite courses, such as Flutter, ASP.NET, Python, or HTML. The app also facilitates real-time communication, enabling students to chat with course organizers and foster connections.
 
 ## Screenshots
 
