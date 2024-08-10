@@ -60,3 +60,11 @@ import 'package:education_app
 void main() {
   // Your code here
 }
+
+### Contact
+
+For any questions or feedback, please contact:
+
+- **Name:** Hasan Hammoudah
+- **Email:** [HasanHammoudah@gmail.com](mailto:HasanHammoudah@gmail.com)
+
